@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/personal/static/css/main.deb5c223.css",
+    "main.js": "/personal/static/js/main.53f7a077.js",
+    "static/media/hero-dark.jpg": "/personal/static/media/hero-dark.37f2556d620821979e99.jpg",
+    "static/media/hero-light.jpg": "/personal/static/media/hero-light.78b77836d8aee4d7d3cb.jpg",
+    "service-worker.js": "/personal/service-worker.js",
+    "static/media/GH.svg": "/personal/static/media/GH.b9e9a9aa6f05e9dfe5dcb8991bda3e4d.svg",
+    "index.html": "/personal/index.html",
+    "static/media/logo.svg": "/personal/static/media/logo.29b297ba6d3ecf72e3503e27c4bac4cc.svg",
+    "main.deb5c223.css.map": "/personal/static/css/main.deb5c223.css.map",
+    "main.53f7a077.js.map": "/personal/static/js/main.53f7a077.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.deb5c223.css",
+    "static/js/main.53f7a077.js"
+  ]
+}
